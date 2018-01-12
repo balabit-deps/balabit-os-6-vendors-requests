@@ -1,0 +1,11 @@
+Source: vendors-requests
+Maintainer: Balazs Benedek <balazs.benedek@balabit.com>
+Priority: extra
+Section: php
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.7.0-1
+Homepage: https://github.com/rmccue/Requests
+
+Package: vendors-requests
+Architecture: all
+Description: Requests for PHP is a humble HTTP request library.
