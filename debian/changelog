@@ -1,3 +1,9 @@
+vendors-requests (1.7.0-2) balabit-os-6.0; urgency=low
+
+  * Changed install directory to /usr/share/php/
+
+ -- Balazs Benedek <balazs.benedek@balabit.com>  Tue, 16 Jan 2018 16:33:02 +0100
+
 vendors-requests (1.7.0-1) balabit-os-6.0; urgency=low
 
   * Initial release.
